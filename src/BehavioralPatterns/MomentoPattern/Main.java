@@ -1,7 +1,7 @@
-package MomentoPattern;
+package BehavioralPatterns.MomentoPattern;
 
-import MomentoPattern.momento.Editor;
-import MomentoPattern.momento.History;
+import BehavioralPatterns.MomentoPattern.momento.Editor;
+import BehavioralPatterns.MomentoPattern.momento.History;
 
 public class Main {
 

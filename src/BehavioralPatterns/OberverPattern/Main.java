@@ -1,10 +1,10 @@
-package OberverPattern;
+package BehavioralPatterns.OberverPattern;
 
-import OberverPattern.Observer.Desktop;
-import OberverPattern.Observer.Mobile;
-import OberverPattern.State.Message;
-import OberverPattern.Subject.StocksAPI;
-import OberverPattern.Subject.WeatherAPI;
+import BehavioralPatterns.OberverPattern.Observer.Desktop;
+import BehavioralPatterns.OberverPattern.Observer.Mobile;
+import BehavioralPatterns.OberverPattern.State.Message;
+import BehavioralPatterns.OberverPattern.Subject.StocksAPI;
+import BehavioralPatterns.OberverPattern.Subject.WeatherAPI;
 
 public class Main {
 

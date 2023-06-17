@@ -1,12 +1,12 @@
-package OberverPattern.Subject;
+package BehavioralPatterns.OberverPattern.Subject;
 
-import OberverPattern.Observer.Observer;
-import OberverPattern.State.Message;
+import BehavioralPatterns.OberverPattern.Observer.Observer;
+import BehavioralPatterns.OberverPattern.State.Message;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class WeatherAPI implements Subject {
+public class StocksAPI implements Subject {
 
     List<Observer> observerList = new ArrayList<>();
 

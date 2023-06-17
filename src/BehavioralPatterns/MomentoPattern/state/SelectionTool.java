@@ -1,4 +1,4 @@
-package MomentoPattern.state;
+package BehavioralPatterns.MomentoPattern.state;
 
 public class SelectionTool implements Tool {
     @Override

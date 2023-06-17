@@ -1,4 +1,4 @@
-package MomentoPattern.state;
+package BehavioralPatterns.MomentoPattern.state;
 
 public class BrushTool implements Tool{
     @Override

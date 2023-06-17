@@ -1,6 +1,6 @@
-package OberverPattern.Observer;
+package BehavioralPatterns.OberverPattern.Observer;
 
-import OberverPattern.State.Message;
+import BehavioralPatterns.OberverPattern.State.Message;
 
 public class Mobile implements Observer {
     @Override

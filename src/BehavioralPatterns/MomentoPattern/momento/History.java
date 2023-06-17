@@ -1,4 +1,4 @@
-package MomentoPattern.momento;
+package BehavioralPatterns.MomentoPattern.momento;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package MomentoPattern.momento;
+package BehavioralPatterns.MomentoPattern.momento;
 
 public class Editor {
 
